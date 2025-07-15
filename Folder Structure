@@ -1,0 +1,5 @@
+Parsnal Ai Desktop Assistant
+├── main.py              # Main logic for voice assistant
+├── gui/                 # Folder containing the GUI interface
+│   └── gui.py           # Tkinter-based GUI to start the assistant
+├── requirements.txt     # All required Python packages
