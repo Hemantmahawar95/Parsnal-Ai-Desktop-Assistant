@@ -1,0 +1,19 @@
+# Write in your requirements.txt file.
+
+pyttsx3
+SpeechRecognition
+pyaudio
+tk
+
+# Don't write in your file , This is basic information.
+
+Package              Purpose
+pyttsx3           - For text-to-speech (assistant speaks)   
+SpeechRecognition - For taking voice input from mic         
+openai            - For ChatGPT integration                 
+pyaudio           - Mic input support for voice recognition 
+tk                - For GUI using Tkinter                   
+
+# Can install all packages using:
+
+pip install -r requirements.txt
